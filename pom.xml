@@ -147,7 +147,7 @@
         <proto-google-common-protos.version>2.7.1</proto-google-common-protos.version>
         <protobuf-java.version>3.21.11</protobuf-java.version>
         <protoc-gen-grpc-java.version>${grpc-java.version}</protoc-gen-grpc-java.version>
-        <hessian.version>4.0.63</hessian.version>
+        <hessian.version>4.0.66</hessian.version>
         <mockito-all.version>1.10.19</mockito-all.version>
         <mockito-core.version>3.8.0</mockito-core.version>
         <HikariCP.version>3.4.2</HikariCP.version>
